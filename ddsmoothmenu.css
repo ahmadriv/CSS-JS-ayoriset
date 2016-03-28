@@ -24,7 +24,7 @@ float: left;
 display: block;
 background: #343434;
 padding: 15px 10px;
-border-right: 1px solid blue;
+border-right: 1px solid #0317FF;
 color: #2d2b2b;
 text-decoration: none;
 }
@@ -73,7 +73,7 @@ width: 160px; /*width of sub menus*/
 padding: 10px 5px;
 margin: 0;
 border-top-width: 0;
-border-bottom: 1px solid red;
+border-bottom: 1px solid #F30707;
 }
 
 /* Holly Hack for IE \*/
