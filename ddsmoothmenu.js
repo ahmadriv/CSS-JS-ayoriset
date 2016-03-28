@@ -48,10 +48,10 @@
 var ddsmoothmenu = {
 
 ///////////////////////// Global Configuration Options: /////////////////////////
-
+https://4.bp.blogspot.com/-W5_TEajuW9c/VvkwjL20DqI/AAAAAAABy6Y/OU_5JMeJX9spAix-6tdZIk272rpXz1c2w/s400/down.gifz
 mobilemediaquery: "screen and (max-width: 700px)", // CSS media query string that when matched activates mobile menu (while hiding default)
 //Specify full URL to down and right arrow images (23 is padding-right for top level LIs with drop downs, 6 is for vertical top level items with fly outs):
-arrowimages: {down:['downarrowclass', 'http://www.dynamicdrive.com/dynamicindex1/down.gif', 23], right:['rightarrowclass', 'http://www.dynamicdrive.com/dynamicindex1/right.gif', 6], left:['leftarrowclass', 'http://www.dynamicdrive.com/dynamicindex1/left.gif']},
+arrowimages: {down:['downarrowclass', 'https://4.bp.blogspot.com/-W5_TEajuW9c/VvkwjL20DqI/AAAAAAABy6Y/OU_5JMeJX9spAix-6tdZIk272rpXz1c2w/s400/down.gif', 23], right:['rightarrowclass', 'http://4.bp.blogspot.com/-ib6tGgE8hK4/VvkwsZEngPI/AAAAAAABy6w/HuMp6-133o4SG2ntDgoUWFduC2H8o-74w/s1600/right.gif', 6], left:['leftarrowclass', 'http://4.bp.blogspot.com/-WyXtxpE66vU/Vvkwm7JBR6I/AAAAAAABy6g/Z_AJyfI7DFspVhgICFNsA5y1kZ9SnBQYA/s1600/left.gif']},
 transition: {overtime:300, outtime:300}, //duration of slide in/ out animation, in milliseconds
 mobiletransition: 200, // duration of slide animation in mobile menu, in milliseconds
 shadow: false, //enable shadow? (offsets now set in ddsmoothmenu.css stylesheet)
